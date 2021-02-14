@@ -14,9 +14,11 @@ Descripción	:
 */
 USE BD_TICKET
 GO
+
 --CREATE VIEW VW_INCIDENTE
 --ALTER VIEW VW_INCIDENTE
 --AS
+
 SELECT
 i.ID,
 i.FechaInicio,
